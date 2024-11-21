@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "442597739427",
+    "project_id": "thesocialmeet-81066",
+    "storage_bucket": "thesocialmeet-81066.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:442597739427:android:0195b12d42198e1e986816",
+        "android_client_info": {
+          "package_name": "thesocialmeet.com"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDO-arLkKEhcyvo5pP8WH1gNklKk9qKXsc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
